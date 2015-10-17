@@ -1,7 +1,0 @@
-# Ignorar arquivos específicos
-.DS_Store
-
-*~
-*.swp
-
-tmp/**/*
